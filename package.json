@@ -1,0 +1,22 @@
+{
+  "name": "friendly-web",
+  "version": "1.0.0",
+  "description": "Friendly Strike - 2D Arena Shooter for the Browser",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:61051/git/cosmith/friendly-web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
